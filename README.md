@@ -1,3 +1,3 @@
 # spring-data-jpa-relationships
 
-Spring Data JPA Relationships - ManyToMany, ManyToOne & OneToMany
+Spring Data JPA Relationships - OneToOne, ManyToOne & OneToMany, ManyToMany
